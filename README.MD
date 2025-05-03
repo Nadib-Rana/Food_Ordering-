@@ -40,5 +40,19 @@ A full-stack, mobile-friendly food ordering system built with the **MERN stack**
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Node.js (v18 or above)
+- MongoDB installed locally or Atlas cluster
+
+### 📦 Clone & Install
+
+```bash
+git clone https://github.com/your-username/university-food-ordering.git
+cd university-food-ordering
 
