@@ -56,3 +56,11 @@ A full-stack, mobile-friendly food ordering system built with the **MERN stack**
 git clone https://github.com/Nadib-Rana/Food_Ordering-.git
 cd /Food_Ordering-
 
+
+### 🔁 Backend Setup
+```bash
+cd backend
+npm install
+
+
+
