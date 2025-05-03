@@ -98,19 +98,6 @@ npm start
 
 ---
 
-## 📸 Sample Screenshots
-
-
-
-> Replace these with your actual app screenshots
-
-| Homepage                                               | WithOut Login                                            | Orders                                                      |
-| ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------- |
-| https://github.com/Nadib-Rana/Food_Ordering-/blob/main/Website-View/home.png |    https://github.com/Nadib-Rana/Food_Ordering-/blob/main/Website-View/WithoutLogin.png  | 
-
----
-
-
 ---
 
 ## 🙋 Author
