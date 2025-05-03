@@ -69,7 +69,6 @@ JWT\_SECRET=your\_jwt\_secret\_key
 REACT\_APP\_API\_URL=[http://localhost:5000/api](http://localhost:5000/api)
 
 ````
-
 ---
 
 ## 🚀 Getting Started
