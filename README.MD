@@ -42,7 +42,6 @@ university-food-ordering/
 │
 ├── frontend/           # React.js application
 │   ├── components/
-│   ├── pages/
 │   ├── App.js
 │   └── index.js
 │
