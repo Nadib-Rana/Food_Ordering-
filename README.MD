@@ -53,6 +53,6 @@ A full-stack, mobile-friendly food ordering system built with the **MERN stack**
 ### 📦 Clone & Install
 
 ```bash
-git clone https://github.com/your-username/university-food-ordering.git
+git clone https://github.com/Nadib-Rana/Food_Ordering-.git
 cd /Food_Ordering-
 
