@@ -122,10 +122,5 @@ npm start
 
 ---
 
-> ⭐ If you found this project useful, please give it a star on GitHub!
-
-```
-
----
 
 ```
