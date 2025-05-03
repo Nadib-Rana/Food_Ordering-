@@ -106,7 +106,7 @@ npm start
 
 | Homepage                                               | Cart                                               | Orders                                                      |
 | ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------- |
-| ![](https://via.placeholder.com/300x200?text=Homepage) | ![](https://via.placeholder.com/300x200?text=Cart) | ![](https://via.placeholder.com/300x200?text=Order+History) |
+|  | ![](https://via.placeholder.com/300x200?text=Cart) |      | 
 
 ---
 
@@ -115,10 +115,10 @@ npm start
 
 ## 🙋 Author
 
-**Your Name**
+**Nadib Rana**
 🔗 [Portfolio](https://nadib-rana.github.io/My-Portfolio-/)
 🔗 [LinkedIn](https://www.linkedin.com/mynetwork/grow/)
-📧 [your.codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)
+📧 [codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)
 
 ---
 
@@ -128,7 +128,4 @@ npm start
 
 ---
 
-You can now drop this single `README.md` file into the root of your GitHub repo — no other `.md` files are necessary.
-
-Would you like me to auto-generate this as a downloadable file for you?
 ```
