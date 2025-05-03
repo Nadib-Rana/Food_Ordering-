@@ -10,7 +10,6 @@ A full-featured food ordering system built with the **MERN stack** (MongoDB, Exp
 - 🍽️ **Food Categories**: Morning, Lunch, 24/7
 - 🔎 **Search Functionality** for food items
 - 🛒 **Cart System** with live stock tracking
-- 💰 **Simulated Mobile Payments**
 - 🧾 **PDF & QR Receipt Generation**
 - 🚚 **Delivery Status** (Processing / Delivered)
 - 📜 **Order History** View
