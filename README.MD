@@ -106,7 +106,7 @@ npm start
 
 | Homepage                                               | Cart                                               | Orders                                                      |
 | ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------- |
-|  | ![](https://via.placeholder.com/300x200?text=Cart) |      | 
+| https://github.com/Nadib-Rana/Food_Ordering-/blob/main/Website-View/home.png |      | 
 
 ---
 
