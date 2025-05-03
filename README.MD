@@ -1,66 +1,137 @@
 # 🎓 University Food Ordering Platform
 
-A full-stack, mobile-friendly food ordering system built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Designed specifically for university campuses, this application enables students and guests to order food from categorized menus, manage carts, simulate mobile payments, and track order history—all in a modern, responsive interface.
+A full-featured food ordering system built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), tailored for university campuses. It provides students and guests the ability to browse food items by category, place orders, simulate mobile payments, and track their order history in real-time.
 
 ---
 
-## 📌 Overview
+## ✨ Features
 
-> A complete university food ordering system with user authentication, cart management, order placement, category-based browsing, and simulated payment integration. Includes QR receipt generation and real-time delivery tracking.
-
----
-
-## ✨ Key Features
-
-### 👤 User Features
-- **Authentication** for Guests and Students
-- **Food Filtering** by Category: Morning, Lunch, 24/7
-- **Search Functionality** for food items
-- **Add to Cart** with live stock validation
-- **Place Orders** and simulate mobile payment
-- **Order History** with receipt download (PDF/QR)
-- **Delivery Tracking** (processing / delivered)
-
-### 🔐 Admin Functionality (Planned)
-- Add/Edit/Delete food items
-- Manage stock levels
-- View and update all orders
+- 🔐 **Secure Login & Registration** for Students and Guests
+- 🍽️ **Food Categories**: Morning, Lunch, 24/7
+- 🔎 **Search Functionality** for food items
+- 🛒 **Cart System** with live stock tracking
+- 💰 **Simulated Mobile Payments**
+- 🧾 **PDF & QR Receipt Generation**
+- 🚚 **Delivery Status** (Processing / Delivered)
+- 📜 **Order History** View
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology      | Description                      |
-|----------------|----------------------------------|
-| **Frontend**    | React.js, React Router, Bootstrap 5 |
-| **Backend**     | Node.js, Express.js              |
-| **Database**    | MongoDB, Mongoose                |
-| **Auth**        | JWT, bcryptjs                    |
-| **Utilities**   | jsPDF, html2canvas, qrcode.react |
+| Layer      | Tech Stack                             |
+|------------|-----------------------------------------|
+| Frontend   | React.js, Bootstrap 5, React Router DOM |
+| Backend    | Node.js, Express.js                     |
+| Database   | MongoDB (Mongoose ODM)                  |
+| Auth       | JWT, bcryptjs                           |
+| Utilities  | jsPDF, html2canvas, qrcode.react        |
 
 ---
 
+## 🗂️ Project Structure
+
+```
+
+university-food-ordering/
+├── backend/            # Express.js API
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── index.js
+│
+├── frontend/           # React.js application
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+│
+└── README.md
+
+```
+
+---
+
+## ⚙️ Environment Setup
+
+### 📁 Backend `.env` Example
+
+```
+
+PORT=5000
+MONGO\_URI=mongodb://localhost:27017/unifood
+JWT\_SECRET=your\_jwt\_secret\_key
+
+```
+
+### 📁 Frontend `.env` Example
+
+```
+
+REACT\_APP\_API\_URL=[http://localhost:5000/api](http://localhost:5000/api)
+
+````
 
 ---
 
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
-
-- Node.js (v18 or above)
-- MongoDB installed locally or Atlas cluster
-
-### 📦 Clone & Install
-
-```bash
-git clone https://github.com/Nadib-Rana/Food_Ordering-.git
-cd /Food_Ordering-
-
+- Node.js (v18+)
+- MongoDB installed locally (or use MongoDB Atlas)
 
 ### 🔁 Backend Setup
+
 ```bash
 cd backend
 npm install
+cp .env.example .env
+npm run dev
+````
 
+### 🌐 Frontend Setup
 
+```bash
+cd frontend
+npm install
+cp .env.example .env
+npm start
+```
 
+---
+
+## 📸 Sample Screenshots
+
+> Replace these with your actual app screenshots
+
+| Homepage                                               | Cart                                               | Orders                                                      |
+| ------------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------- |
+| ![](https://via.placeholder.com/300x200?text=Homepage) | ![](https://via.placeholder.com/300x200?text=Cart) | ![](https://via.placeholder.com/300x200?text=Order+History) |
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
+
+---
+
+## 🙋 Author
+
+**Your Name**
+🔗 [Portfolio](https://your-portfolio.com)
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+> ⭐ If you found this project useful, please give it a star on GitHub!
+
+```
+
+---
+
+You can now drop this single `README.md` file into the root of your GitHub repo — no other `.md` files are necessary.
+
+Would you like me to auto-generate this as a downloadable file for you?
+```
