@@ -110,18 +110,15 @@ npm start
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 ---
 
 ## 🙋 Author
 
 **Your Name**
-🔗 [Portfolio](https://your-portfolio.com)
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-📧 [your.email@example.com](mailto:your.email@example.com)
+🔗 [Portfolio](https://nadib-rana.github.io/My-Portfolio-/)
+🔗 [LinkedIn](https://www.linkedin.com/mynetwork/grow/)
+📧 [your.codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)
 
 ---
 
