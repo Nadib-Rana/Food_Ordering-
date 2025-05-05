@@ -99,7 +99,7 @@ npm start
 
 ---
 
-## 🙋 Author
+## 🙋 Author :
 
 **Nadib Rana**
 🔗 [Portfolio](https://nadib-rana.github.io/My-Portfolio-/)
@@ -107,6 +107,5 @@ npm start
 📧 [codecrafersnadib@gmail.com](mailto:codecrafersnadib@gmail.com)
 
 ---
-
 
 ```
