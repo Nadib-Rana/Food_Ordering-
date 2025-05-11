@@ -85,7 +85,6 @@ npm install
 cp .env.example .env
 npm run dev
 ````
-
 ### 🌐 Frontend Setup
 
 ```bash
@@ -94,7 +93,6 @@ npm install
 cp .env.example .env
 npm start
 ```
-
 ---
 
 ---
